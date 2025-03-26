@@ -1,0 +1,3 @@
+C:/Users/Ricardo/OneDrive/Documentos/javeriana/semestre 4/poo/GIT/8-practica-contenedores-26-03-25/cmake-build-debug/CMakeFiles/8_practica_contenedores_26_03_25.dir
+C:/Users/Ricardo/OneDrive/Documentos/javeriana/semestre 4/poo/GIT/8-practica-contenedores-26-03-25/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ricardo/OneDrive/Documentos/javeriana/semestre 4/poo/GIT/8-practica-contenedores-26-03-25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
